@@ -1,0 +1,26 @@
+[{
+    "name":"Alamin",
+    "email":"alaminazad240@gmail.com",
+    "links":[
+        {"facebook":"https://fb.com/AlaminAzad0"},
+        {"github":"https://github.com/alamin_azad"},
+        {"instagram":"https://instagram.com/alaminazad"}
+    ],
+    "skills":["C","C++","Javasxript","PHP","Python"],
+    "age": 25,
+    "ismaried":false,
+    "talentt":null
+},
+{
+    "name":"Alamin",
+    "email":"alaminazad240@gmail.com",
+    "links":[
+        {"facebook":"https://fb.com/AlaminAzad0"},
+        {"github":"https://github.com/alamin_azad"},
+        {"instagram":"https://instagram.com/alaminazad"}
+    ],
+    "skills":["C","C++","Javasxript","PHP","Python"],
+    "age": 25,
+    "ismaried":false,
+    "talentt":null
+}]
